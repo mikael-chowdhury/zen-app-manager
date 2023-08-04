@@ -1,0 +1,7 @@
+**/node_modules/*
+**/bin/*
+**/dist/*
+**/bindist/*
+**/babeldist/*
+zen-repo/packages/*
+zen-repo/*.txt

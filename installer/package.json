@@ -1,0 +1,19 @@
+{
+  "name": "installer",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "./index.js",
+  "main": "./index.js",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.5"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
